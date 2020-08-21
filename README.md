@@ -5,7 +5,7 @@ Cari cc dari termux
 
 All Commands <br>
 apt update<br>
-pkg install git
+pkg install git<br>
 pkg install php figlet wget git -y<br>
 git clone https://github.com/RK-Hacking-Zone/Card-Number<br>
 cd Card-Number<br>
